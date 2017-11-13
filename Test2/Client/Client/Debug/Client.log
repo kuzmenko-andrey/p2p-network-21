@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  TcpServer.cpp
+  TcpClient.cpp
+  TcpBase.cpp
+  main.cpp
+  ListPath.cpp
+  Создание кода...
+  Client.vcxproj -> C:\Users\User\Desktop\Test2\Client\Debug\Client.exe
+  Client.vcxproj -> C:\Users\User\Desktop\Test2\Client\Debug\Client.pdb (Full PDB)
